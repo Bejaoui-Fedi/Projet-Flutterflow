@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Messi",
+    "age": 38,
+    "position": "Alier-Droit",
+    "number": 10,
+    "photo": "https://tse3.mm.bing.net/th/id/OIP._Pfn-vYyin00NA2UH5FSVwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "statut": "Lionel Andrés Leo Messi born 24 June 1987 is an Argentine professional footballer who plays as a forward for and captains both Major League Soccer club Inter Miami and the Argentina national team.",
+    "id": "1"
+  },
+  {
+    "name": "Erling",
+    "age": 25,
+    "position": "Avant-Centre",
+    "number": 9,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Erling_Haaland_June_2025.jpg/960px-Erling_Haaland_June_2025.jpg",
+    "statut": "Erling Braut Haaland né le 21 juillet 2000 est un footballeur professionnel norvégien qui évolue au poste d’attaquant pour le club de Premier League Manchester City et l’équipe nationale norvégienne.",
+    "id": "2"
+  },
+  {
+    "name": "Rice",
+    "age": 26,
+    "position": "Milieu-Défensif",
+    "number": 41,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/1_declan_rice_arsenal_2025_%28cropped%29.jpg/250px-1_declan_rice_arsenal_2025_%28cropped%29.jpg",
+    "statut": "Declan Rice, né le 14 janvier 1999 à Londres, est un footballeur international anglais qui évolue au poste de milieu défensif à Arsenal FC.",
+    "id": "3"
+  },
+  {
+    "name": "Cristiano",
+    "age": 40,
+    "position": "Avant-Centre",
+    "number": 7,
+    "photo": "https://st1.uvnimg.com/4d/97/870bcb42452ebf7bfa0c609b90bd/cristiano-ronaldo-portugal.jpg",
+    "statut": "Cristiano Ronaldo dos Santos Aveiro (né le 5 février 1985) est un footballeur professionnel portugais qui évolue en tant qu’attaquant et capitaine à la fois du club de la Pro League saoudienne Al-Nassr et de l’équipe nationale portugaise.",
+    "id": "4"
+  },
+  {
+    "name": "De Bruyne",
+    "age": 33,
+    "position": "Milieu Offensif",
+    "number": 17,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/4/40/Kevin_De_Bruyne_201807091.jpg",
+    "statut": "Kevin De Bruyne est un milieu de terrain belge reconnu pour sa vision du jeu.",
+    "id": "5"
+  },
+  {
+    "name": "Neymar",
+    "age": 33,
+    "position": "Ailier Gauche",
+    "number": 10,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg/960px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg",
+    "statut": "Neymar Jr est un footballeur brésilien connu pour sa technique et sa créativité.",
+    "id": "6"
+  }
+]
